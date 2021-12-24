@@ -4,8 +4,10 @@ Image Stitching based on SIFT and ORB
 
 ## Requirements
 
+```
 OpenCV>=4.4.0
 NumPy
+```
 
 ## Steps to use
 
