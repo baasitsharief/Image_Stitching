@@ -1,6 +1,6 @@
 # Image_Stitching
 
-Image Stitching based on SIFT and ORB
+Image Stitching based on SIFT(https://www.cs.ubc.ca/~lowe/papers/iccv99.pdf) and ORB(https://en.wikipedia.org/wiki/Oriented_FAST_and_rotated_BRIEF)
 
 ## Requirements
 
